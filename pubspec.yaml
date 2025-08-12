@@ -40,6 +40,9 @@ dependencies:
   audio_metadata_reader: ^1.4.2
   share_plus: ^11.1.0
   http: ^1.2.2
+  chewie: ^1.12.1
+  chewie_audio: ^1.5.0
+  flutter_subtitle: ^0.0.6
 #  downloads_path_provider:
 
 
