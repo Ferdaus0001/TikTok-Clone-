@@ -20,7 +20,7 @@ A beautiful Flutter music app to play your favorite songs, manage playlists, and
 
 | Home Screen | Player Screen |
 |------------|---------------|
-| ![Home](https://i.ytimg.com/vi/cY8mqKRfBSY/maxresdefault.jpg) | ![Player](https://i.ytimg.com/vi/cY8mqKRfBSY/maxresdefault.jpg) |
+| ![Home]([https://i.ytimg.com/vi/cY8mqKRfBSY/maxresdefault.jpg](https://tse4.mm.bing.net/th/id/OIP.wkDE6wgzQcXMAKH5cNzg6wHaDt?rs=1&pid=ImgDetMain&o=7&rm=3)) | ![[Player](https://i.ytimg.com/vi/cY8mqKRfBSY/maxresdefault.jpg](https://tse4.mm.bing.net/th/id/OIP.wkDE6wgzQcXMAKH5cNzg6wHaDt?rs=1&pid=ImgDetMain&o=7&rm=3)) |
 
 ---
 
